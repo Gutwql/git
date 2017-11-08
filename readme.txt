@@ -26,4 +26,5 @@ C:\Users\admin\.ssh
 
 git remote add origin git@github.com:Gutwql/git.git
 
+git pull git@github.com:Gutwql/git.git
 git push -u origin master
