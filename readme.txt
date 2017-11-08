@@ -36,3 +36,6 @@ git checkout dev
 
 git merge dev
 git log --graph --pretty=oneline --abbrev-commit
+
+git merge --no-ff -m "merge with no-ff" dev
+git log --graph --pretty=oneline --abbrev-commit
