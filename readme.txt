@@ -30,6 +30,7 @@ git pull git@github.com:Gutwql/git.git
 git push -u origin master
 git clone git@github.com:Gutwql/Personal-Homepage.git
 
+git branch
 git checkout -b dev
 git branch dev
 git checkout dev
