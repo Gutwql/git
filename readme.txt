@@ -28,3 +28,4 @@ git remote add origin git@github.com:Gutwql/git.git
 
 git pull git@github.com:Gutwql/git.git
 git push -u origin master
+git clone git@github.com:Gutwql/Personal-Homepage.git
