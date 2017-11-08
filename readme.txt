@@ -39,3 +39,11 @@ git log --graph --pretty=oneline --abbrev-commit
 
 git merge --no-ff -m "merge with no-ff" dev
 git log --graph --pretty=oneline --abbrev-commit
+
+/*dev Already up-to-data*/
+git merge --no-ff -m "merge with no-ff" master
+git push
+/*dev add new contain*/
+git add readme.txt
+git commit -m "add new contain"
+git push
