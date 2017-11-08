@@ -23,3 +23,7 @@ git checkout -- file
 
 ssh-keygen -t rsa -C "770185288@qq.com"
 C:\Users\admin\.ssh
+
+git remote add origin git@github.com:Gutwql/git.git
+
+git push -u origin master
