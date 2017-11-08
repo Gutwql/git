@@ -33,3 +33,5 @@ git clone git@github.com:Gutwql/Personal-Homepage.git
 git checkout -b dev
 git branch dev
 git checkout dev
+
+git merge dev
