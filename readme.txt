@@ -46,4 +46,6 @@ git push
 /*dev add new contain*/
 git add readme.txt
 git commit -m "add new contain"
+git checkout master
+git merge --no-ff -m "merge with no-ff" dev
 git push
