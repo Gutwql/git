@@ -35,3 +35,4 @@ git branch dev
 git checkout dev
 
 git merge dev
+git log --graph --pretty=oneline --abbrev-commit
