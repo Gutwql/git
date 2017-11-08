@@ -17,3 +17,8 @@ git reset --hard HEAD~100
 
 git log
 git reflog
+
+git checkout -- file
+
+ssh-keygen -t rsa -C "770185288@qq.com"
+C:\Users\admin\.ssh
