@@ -29,3 +29,10 @@ git remote add origin git@github.com:Gutwql/git.git
 git pull git@github.com:Gutwql/git.git
 git push -u origin master
 git clone git@github.com:Gutwql/Personal-Homepage.git
+
+git checkout -b dev
+git branch dev
+git checkout dev
+
+git merge dev
+git log --graph --pretty=oneline --abbrev-commit
