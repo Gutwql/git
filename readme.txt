@@ -14,3 +14,6 @@ git diff
 git reset --hard xxxx
 git reset --hard HEAD~1
 git reset --hard HEAD~100
+
+git log
+git reflog
