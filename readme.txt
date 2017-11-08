@@ -7,6 +7,7 @@ git config --global user.name "xxxx"
 
 git add xxx.xx
 git commit xxx.xx -m "add xxx"
+git commit -a -m "all xxx"
 
 git status
 git diff
